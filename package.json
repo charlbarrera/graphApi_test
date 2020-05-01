@@ -1,0 +1,15 @@
+{
+  "name": "graphapi",
+  "version": "1.0.0",
+  "description": "testing an api with graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "grapghApi_test"
+  },
+  "author": "charlbarrera",
+  "license": "MIT"
+}
